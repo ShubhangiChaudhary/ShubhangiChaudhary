@@ -7,7 +7,7 @@
 
 <a href='https://www.linkedin.com/in/shubhangi-chaudhary-620271212/'>
   <img align="left" width="22px" src="https://commons.wikimedia.org/wiki/File:LinkedIn_icon_circle.svg" />
-</a>
+</a> </br>
 
 ☝️ Apart from these I have interest in 'Art'. Sometimes I sketch, draw or do handcraft work. </br>
 💃 I also like dancing even though I'm not a trained dancer but I enjoy everytime I dance.
