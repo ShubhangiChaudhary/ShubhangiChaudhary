@@ -16,7 +16,9 @@
 
 ## 📈 Stats 👇
 
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhangiChaudhary&theme=tokyonight&layout=compact" />&ensp; </br> <img src="https://github-readme-stats.vercel.app/api?username=ShubhangiChaudhary&theme=tokyonight" width="49.6%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhangiChaudhary&theme=tokyonight" width="49.6%" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhangiChaudhary&theme=tokyonight&layout=compact" width="30.5%" /> </br> 
+   
+   <img src="https://github-readme-stats.vercel.app/api?username=ShubhangiChaudhary&theme=tokyonight" width="49.6%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhangiChaudhary&theme=tokyonight" width="49.6%" />
   
 <!--   <img src="https://activity-graph.herokuapp.com/graph?username=ShubhangiChaudhary&theme=tokyonight" /> -->
 
