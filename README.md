@@ -16,7 +16,7 @@
 
 ## 📈 Stats 👇
 
-   &nbsp; &nbsp; &nbsp;  &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhangiChaudhary&theme=tokyonight&layout=compact" width="32.5%" /> </br> 
+   &nbsp; &nbsp; &nbsp;  &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhangiChaudhary&theme=tokyonight&layout=compact" width="32.5%" /> </br> 
    
    <img src="https://github-readme-stats.vercel.app/api?username=ShubhangiChaudhary&theme=tokyonight" width="49.6%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhangiChaudhary&theme=tokyonight" width="49.6%" />
   
