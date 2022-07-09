@@ -7,6 +7,8 @@
 
 
 ☝️ Apart from these I have interest in 'Art'. Sometimes I sketch, draw or do handcraft work. </br>
-💃 I also like dancing even though I'm not a trained dancer but I enjoy everytime I dance.
+💃 I also like dancing even though I'm not a trained dancer but I enjoy everytime I dance. </br>
+
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 
 
