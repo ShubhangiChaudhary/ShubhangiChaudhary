@@ -17,9 +17,9 @@
 ## 📈 Stats 👇
 
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhangiChaudhary&theme=tokyonight" />
-   &nbsp; <img src="https://github-readme-stats.vercel.app/api?username=ShubhangiChaudhary&theme=tokyonight" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhangiChaudhary&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ShubhangiChaudhary&theme=tokyonight" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhangiChaudhary&theme=tokyonight" />
   
 <!--   <img src="https://activity-graph.herokuapp.com/graph?username=ShubhangiChaudhary&theme=tokyonight" /> -->
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShubhangiChaudhary&theme=tokyonight" />
-
+<!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShubhangiChaudhary&theme=tokyonight" />
+ -->
