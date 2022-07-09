@@ -5,4 +5,4 @@
 💻 I'm also interested in Graphic Designing as I worked as a Graphic Designer in IEEE CS Chapter of S.B. Jain Student Branch in 2021.<br/>
 👉 I'm a quick learner and always ready to learn new stuffs.  <br/>
 
-<a href='https://www.linkedin.com/in/shubhangi-chaudhary-620271212/'></a>
+<a href='https://www.linkedin.com/in/shubhangi-chaudhary-620271212/'>My linkedin account</a>
