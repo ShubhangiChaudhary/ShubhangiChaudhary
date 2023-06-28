@@ -2,7 +2,7 @@
 ## I'm Shubhangi Chaudhary!
 
 👩🏼‍🎓 Completed my Bachelor's Degree in Computer Science and Engineering from S.B. Jain Institute Of Technology, Management & Research, Nagpur.<br/>
-👩‍💻 Microstrategy and Power BI Developer working as an Associate.
+👩‍💻 Microstrategy and Power BI Developer working as an Associate.<br/>
 👩🏼 Also a Front-end Developer. <br/>
 💻 I'm also interested in Graphic Designing as I worked as a Graphic Designer in IEEE CS Chapter of S.B. Jain Student Branch in 2021.<br/>
 👉 I'm a quick learner and always ready to learn new stuffs.  <br/>
